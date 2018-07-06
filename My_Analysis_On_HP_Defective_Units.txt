@@ -1,0 +1,13 @@
+Jotting down  of important points for the below mentioned project :
+
+HP Inc. Defective Units Return Analysis Manufacturing Industry
+
+--> collecting the proceesing steps from start to end thoroughly
+--> storing all the necessary data in the normal database
+--> transfering data from Traditional RDMS to HDFS to accomodate huge amount of data
+--> collecting live data and storing in HDFS using Flume and other necessary tools
+--> Using HIVE  querying into HDFS to get required analytical information  and provide it to respective business team or Stakeholders to take necessary actions
+--> need to create and use some of the use cases for the above case for data fetching and processing
+--> presenting the available result into respective stakeholders in the  any of the graph formats 
+--> with the above result it is able to find probable root cause of defects.
+--> also the above results helps in finding the bootle neck situations at different stages from start to end and to solve those situations
